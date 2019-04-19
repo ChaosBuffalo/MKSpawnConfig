@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "test": [
+      {
+        "spawn_list": "mkultra:test_beholders",
+        "weight": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "mountainmobs:beholder",
+  "name": "Test Beholder",
+  "custom_modifiers": [
+    {
+      "setter": "mkultrax:set_subspecies",
+      "subspecies_index": 1
+    },
+    {
+      "setter": "mkultrax:ai_override",
+      "do_override": true
+    }
+  ],
+  "attributes": [
+    "mkultra:lycanites_level",
+    "mkultra:lycanites_aggro_range",
+    "mkultra:lycanites_tiny_size"
+  ],
+  "ai_modifiers": [
+    "mkultra:remove_lycanites_ai",
+    "mkultra:add_lycanites_ai"
+  ]
+}
