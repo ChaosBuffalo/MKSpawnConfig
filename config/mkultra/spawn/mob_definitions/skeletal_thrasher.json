@@ -1,6 +1,8 @@
 {
   "type": "minecraft:skeleton",
   "name": "Skeletal Thrasher",
+  "can_default_spawn": true,
+  "default_spawn_weight": 3.0,
   "attributes": [
     "mkultra:captain_health",
     "mkultra:melee_aggro",

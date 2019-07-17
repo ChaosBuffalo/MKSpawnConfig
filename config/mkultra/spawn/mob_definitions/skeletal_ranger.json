@@ -1,6 +1,8 @@
 {
   "type": "minecraft:skeleton",
   "name": "Skeletal Ranger",
+  "can_default_spawn": true,
+  "default_spawn_weight": 5.0,
   "attributes": [
     "mkultra:boss_health",
     "mkultra:ranged_aggro",

@@ -1,6 +1,8 @@
 {
   "type": "minecraft:skeleton",
   "name": "Skeletal Archon",
+  "can_default_spawn": true,
+  "default_spawn_weight": 1.0,
   "attributes": [
     "mkultra:boss_health",
     "mkultra:ranged_aggro",

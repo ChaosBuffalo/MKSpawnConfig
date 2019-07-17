@@ -1,6 +1,8 @@
 {
   "type": "minecraft:skeleton",
   "name": "Skeletal Acolyte",
+  "can_default_spawn": true,
+  "default_spawn_weight": 10.0,
   "attributes": [
     "mkultra:grunt_health",
     "mkultra:ranged_aggro",

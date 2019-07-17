@@ -1,6 +1,8 @@
 {
   "type": "minecraft:skeleton",
   "name": "Skeletal Cleric",
+  "can_default_spawn": true,
+  "default_spawn_weight": 5.0,
   "attributes": [
     "mkultra:captain_health",
     "mkultra:ranged_aggro",

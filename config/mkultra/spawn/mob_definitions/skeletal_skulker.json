@@ -1,6 +1,8 @@
 {
   "type": "minecraft:skeleton",
   "name": "Skeletal Skulker",
+  "can_default_spawn": true,
+  "default_spawn_weight": 6.0,
   "attributes": [
     "mkultra:captain_health",
     "mkultra:melee_aggro",

@@ -1,6 +1,8 @@
 {
   "type": "minecraft:skeleton",
   "name": "Skeletal Grunt",
+  "can_default_spawn": true,
+  "default_spawn_weight": 15.0,
   "attributes": [
     "mkultra:grunt_health",
     "mkultra:melee_aggro",
